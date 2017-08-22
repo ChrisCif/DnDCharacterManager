@@ -1,0 +1,37 @@
+.btn-bottom
+{
+    margin-top: 20%;
+}
+
+.row-header
+{
+    border-bottom: 1px solid black;
+    margin-bottom: 5%;
+}
+
+.lvText
+{
+    font-size: 400%;
+    color: #ec2127;
+}
+
+.profPic
+{
+    max-height: 100px;
+    max-width: 100px;
+}
+
+#logo
+{
+    max-height: 50px;
+}
+
+.btn-danger
+{
+    background-color: #ec2127;
+}
+
+h1
+{
+    font-weight: bold;
+}
